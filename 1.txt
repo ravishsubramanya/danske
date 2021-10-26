@@ -3,3 +3,5 @@ This is my first file
 
 
 Changes from feature branch - feature 1
+
+Changes from feature branch - feature 2
